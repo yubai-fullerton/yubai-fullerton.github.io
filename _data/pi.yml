@@ -1,0 +1,65 @@
+- name: Dr. Yu Bai
+  photo: 1.jpg
+  info: Yu B. Associate Professor, California State University, Fullerton
+  email: ybai2@uci.edu
+  #linkedin: https://www.linkedin.com/in/yu-bai-bbb054102/
+  researchgate: https://www.researchgate.net/profile/Yu-Bai-47
+  scholar: https://scholar.google.com/citations?user=romDDywAAAAJ&hl=en
+  cv: https://ecs.fullerton.edu/~ybai/
+  # Change the items in "education" you have (up to 6)
+  education:
+    [ "Co-Director Intelligent Computing Joint Research Laboratory",
+      "Email: ybai2 at uci dot edu",
+      "Department of  Electrical and Computer Engineering",
+      "California State University, Fullerton",
+      "University of California, Irvine",
+      "(2016) Ph.D. Electrical Engineering, University of Central Florida",
+      "(2011) M.S. Electrical and Computer Engineering, University of Texas-Pan American",
+      "(2008) B.S. Electrical Engineering, Ukraine National Aviation University"
+      
+    ]
+
+  educationshort:
+    [
+      "Co-Director Intelligent Computing Joint Research Laboratory"
+    ]
+
+    
+    #"Co-Director Intelligent Computing Joint Research Laboratory"
+    #"(2016) Ph.D. Electrical Engineering, UCF"
+    #"Department of  Electrical and Computer Engineering"
+    #"California State University, Fullerton"
+    #"University of California, Irvine"
+    #"Email: ybai2 at uci dot edu"
+
+
+
+- name: Dr. Yifeng Yu
+  photo: 2.jpg
+  info: Yifeng Y. Professor, University of California, Irvine
+  email: yyu1@math.uci.edu
+  #linkedin: https://www.linkedin.com/in/yifeng-yu-60b53a32/
+  researchgate: https://www.researchgate.net/profile/Yifeng-Yu
+  scholar: https://www.researchgate.net/profile/Yifeng-Yu
+  cv:  https://www.faculty.uci.edu/profile/?facultyId=5707
+  # Change the items in "education" you have (up to 6)
+  education:
+    [ "Co-Director Intelligent Computing Joint Research Laboratory",
+      "Email: yyu1 at uci dot edu",
+      "Department of Mathematics",
+      "University of California, Irvine",
+      "(2005) Ph.D. Mathematics, University of California, Berkeley",
+      "(1999) B.S. Mathematics, Nankai University"
+    ]
+
+  educationshort:
+    [
+      "Co-Director Intelligent Computing Joint Research Laboratory"
+    ]
+    
+    #"Co-Director Intelligent Computing Joint Research Laboratory"
+    #"(2005) Ph.D. Mathematics, UCB"
+    #"Department of Mathematics"
+    #"University of California, Irvine"
+    #"Email: yyu1 at uci dot edu"
+    

@@ -1,0 +1,96 @@
+# Site settings
+title: Intelligent Computing Joint Research Laboratory
+email: ybai2@uci.edu
+description: Academic Webpage of Intelligent Computing Joint Research Laboratory
+baseurl: ""
+url: ""
+
+# Google analytics ID: Uncomment and your own, if you like
+# google_analytics: XX
+# google_analytics_4: XXX
+# google_tag_manager: XXX
+
+# Footer info
+affiliation: >
+  Intelligent Computing Joint Research Laboratory<br/>
+  Department of Electrical Engineering and Computer Science<br/>
+  University of California, Irvine
+
+location: >
+  University of California, Irvine<br/>
+  260 Aldrich Hall<br/>
+  Irvine, CA 92697-1075
+
+contact: >
+  <a href="mailto:ybai2@uci.edu" target="_blank"><i class="fa fa-envelope fa-1x"></i> Contact via email</a> <br/>
+  <a href="https://scholar.google.com/citations?user=romDDywAAAAJ&hl=en"><i class="fa fa-github fa-1x"></i> Google Scholar</a>
+
+# Pages shown in navbar
+nav_pages:
+  - name: about
+  - name: services
+  #- name: talks
+  #- name: software
+  - name: team
+  #- name: teaching
+  - name: sponsors
+
+include:
+  - .htaccess
+  - _pages
+
+# Conversion
+markdown: kramdown
+highlighter: rouge
+lsi: false
+excerpt_separator: "\n\n"
+incremental: false
+
+# Markdown Processing
+kramdown:
+  input: GFM
+  hard_wrap: false
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  smart_quotes: lsquo,rsquo,ldquo,rdquo
+  enable_coderay: false
+  parse_block_html: true # default for kramdown is false. This will enable using Markdown links
+
+plugins: ["jekyll/scholar"]
+
+scholar:
+scholar:
+  style: apa
+  locale: en
+  source: "./_bibliography"
+  bibliography: "references.bib"
+
+  last_name: Doe
+  first_name: [John]
+
+ 
+  bibliography_template: bibtemplate
+  sort_by: year, month
+  order: descending
+
+  replace_strings: true
+  join_strings: true
+
+  details_dir: bibliography
+  details_layout: bibtex.html
+  details_link: Details
+
+  query: "@*"
+
+  bibliography_list_attributes:
+    reversed: "reversed"
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - update_boostrap.sh
+  - switch_theme.sh
+  - tags
+  - Rakefile
