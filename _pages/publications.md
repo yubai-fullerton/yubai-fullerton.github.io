@@ -35,11 +35,12 @@ iframe {
 <div class="jumbotron">
 <div class="col-md-12 col-sm-12" style="line-height: 1.6;">
 <h4>
-
-Book Chapter<br><br>
+<h2>
+Book Chapter<br><br></h2>
 • Gofman, Sinjini Mitra, Yu Bai, and Yoonsuk Choi,"Security, Privacy, and Usability Challenges in Selfie Bio-metrics." In Selfie Biometrics, pp. 313-353. Springer, Cham, 2019.<br><br>
 • X.Tang, X. Xu,Y. Bai,"Computer Essential ," Tsinghua University Press, ISBN 978730243418.<br><br><br>
-Journal Papers<br><br>
+<h2>
+Journal Papers<br><br></h2>
 • [IEEE TGRS (IF=7.5)] Tian, Rui, Danqing Liu, Yu Bai, Yu Jin, Guanliang Wan, and Yanhui Guo. "Swin-
 MSP: A Shifted Windows Masked Spectral Pretraining Model for Hyperspectral Image Classification." IEEE
 Transactions on Geoscience and Remote Sensing (2024).<br><br>
@@ -92,7 +93,7 @@ Technology," Journal of Low Power Electronics and Applications., 2016; 6(3):15.,
 • [JECE’12 IF=1.04] Lin M.,Yu Bai, DeMara RF,"Selectively fortifying reconfigurable computing device to
 achieve higher error resilience," Journal of Electrical and Computer Engineering (JECE 2012), Article 5, Jan.2012. DOI=http://dx.doi.org/10.1155/2012/593532.<br><br><br>
 
-Conference Papers<br><br>
+<h2>Conference Papers<br><br></h2>
 • [ACM GLSVLSI’24] Yarnell, Richard C., Mousam Hossain, Raul Graterol, Ayush Pindoria, Sujan Ghimire,
 Muhtasim Alam Chowdhury, Soheil Salehi, Yu Bai, and Ronald F. Demara. "Educational Tool-spaces for
 Convolutional Neural Network FPGA Design Space Exploration Using High-Level Synthesis." In Proceed-
