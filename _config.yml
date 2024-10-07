@@ -28,11 +28,10 @@ contact: >
 # Pages shown in navbar
 nav_pages:
   - name: about
+  - name: publications
+  - name: fundings
   - name: services
-  #- name: talks
-  #- name: software
   - name: team
-  #- name: teaching
   - name: sponsors
 
 include:
