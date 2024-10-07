@@ -36,11 +36,11 @@ iframe {
 <div class="col-md-12 col-sm-12" style="line-height: 1.6;">
 
 <h2>
-Book Chapter<br><br></h2>
+Book Chapter<br><br></h2><h4>
 • Gofman, Sinjini Mitra, Yu Bai, and Yoonsuk Choi,"Security, Privacy, and Usability Challenges in Selfie Bio-metrics." In Selfie Biometrics, pp. 313-353. Springer, Cham, 2019.<br><br>
 • X.Tang, X. Xu,Y. Bai,"Computer Essential ," Tsinghua University Press, ISBN 978730243418.<br><br><br>
-<h2>
-Journal Papers<br><br></h2>
+</h4><h2>
+Journal Papers<br><br></h2><h4>
 • [IEEE TGRS (IF=7.5)] Tian, Rui, Danqing Liu, Yu Bai, Yu Jin, Guanliang Wan, and Yanhui Guo. "Swin-
 MSP: A Shifted Windows Masked Spectral Pretraining Model for Hyperspectral Image Classification." IEEE
 Transactions on Geoscience and Remote Sensing (2024).<br><br>
@@ -91,9 +91,9 @@ Computing, vol. PP, no. 99, pp. 1-1. doi: 10.1109/TETC.2016.2601220<br><br>
 Technology," Journal of Low Power Electronics and Applications., 2016; 6(3):15.,<br><br>
 • [Electronics’15 IF=2.11] Yu Bai, Alawad M, DeMara RF, Lin M.,"Optimally fortifying logic reliability through criticality ranking," Electronics, 2015; 4(1):150-172.<br><br>
 • [JECE’12 IF=1.04] Lin M.,Yu Bai, DeMara RF,"Selectively fortifying reconfigurable computing device to
-achieve higher error resilience," Journal of Electrical and Computer Engineering (JECE 2012), Article 5, Jan.2012. DOI=http://dx.doi.org/10.1155/2012/593532.<br><br><br>
+achieve higher error resilience," Journal of Electrical and Computer Engineering (JECE 2012), Article 5, Jan.2012. DOI=http://dx.doi.org/10.1155/2012/593532.<br><br><br></h4>
 
-<h2>Conference Papers<br><br></h2>
+<h2>Conference Papers<br><br></h2><h4>
 • [ACM GLSVLSI’24] Yarnell, Richard C., Mousam Hossain, Raul Graterol, Ayush Pindoria, Sujan Ghimire,
 Muhtasim Alam Chowdhury, Soheil Salehi, Yu Bai, and Ronald F. Demara. "Educational Tool-spaces for
 Convolutional Neural Network FPGA Design Space Exploration Using High-Level Synthesis." In Proceed-
@@ -225,8 +225,8 @@ sium on , vol., no., pp.112,119, 10-12 Nov. 2011 doi: 10.1109/HASE.2011.49. Acce
 Digital System Design (DSD), 2011 14th Euromicro Conference on , vol., no., pp.247,253, Aug. 31 2011-Sept.
 2 2011 doi: 10.1109/DSD.2011.35. Acceptance rate (31%)<br><br>
 • [SPL’11] Weidong Kuang, Yu Bai, "Soft error in FPGA-implemented asynchronous circuits," Programmable
-Logic (SPL), 2011 VII Southern Conference on, vol., no., pp.221,226, 13-15 April 2011 doi: 10.1109/SPL.2011.57826 52. Acceptance rate (?)<br><br>
+Logic (SPL), 2011 VII Southern Conference on, vol., no., pp.221,226, 13-15 April 2011 doi: 10.1109/SPL.2011.57826 52. Acceptance rate (?)<br><br></h4>
 
-</h4>
+
 </div>
 </div>
