@@ -43,7 +43,7 @@ ery in Biological Systems, $170,000, Sep 30, 2024-Oct. 1 2027<br>
 • Scott Jewett Foundation: Amplify Equitable Learning in Lower-division Computing Courses to Underrep-
 resented Engineering and Computer Science Students (ACCESS), $150,000, Jan 1, 2024- Dec. 31, 2026<br>
 • Army Research Office (#W911NF2010174): Edge-Based Machine Intelligence Architecture for In-Situ Video
-Processing using Binarized Neutral Networks" June 10, 2020-June 9, 2023 ," $418,657<br>
+Processing using Binarized Neutral Networks" June 10, 2020-June 9, 2023 ," $418,657. <br>
 • National Science Foundation (NSF#1832536): Building Capacity: Advancing Student Success in Undergrad-
 uate Engineering and Computer Science (ASSURE-US), October 1, 2018-September 30, 2023 ," $1, 496, 967<br>
 • Industry-Academic Research Grant,: "High Efficient AI Algorithm for X-ray Images", June. 1, 2023-July. 30,2025, $20,000.<br>
