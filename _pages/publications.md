@@ -34,7 +34,7 @@ iframe {
 
 <div class="jumbotron">
 <div class="col-md-12 col-sm-12" style="line-height: 1.6;">
-<h4>
+
 <h2>
 Book Chapter<br><br></h2>
 • Gofman, Sinjini Mitra, Yu Bai, and Yoonsuk Choi,"Security, Privacy, and Usability Challenges in Selfie Bio-metrics." In Selfie Biometrics, pp. 313-353. Springer, Cham, 2019.<br><br>
